@@ -1,0 +1,23 @@
+{
+  "name": "testlearn",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "git ini echo # learnTesting",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Miranevl/learnTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Miranevl/learnTesting/issues"
+  },
+  "homepage": "https://github.com/Miranevl/learnTesting#readme"
+}
